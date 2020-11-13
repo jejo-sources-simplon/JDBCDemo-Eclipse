@@ -1,0 +1,14 @@
+h1 {
+	color: blue;
+}
+
+label {
+	display: inline-block;
+	width: 120px;
+	margin-bottom: 5px
+}
+
+.label2 {
+	width: 50px;
+	margin-bottom: 5px
+}
