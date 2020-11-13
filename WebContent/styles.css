@@ -3,12 +3,13 @@ h1 {
 }
 
 label {
+	text-align: right;
 	display: inline-block;
-	width: 120px;
+	width: 50x;
 	margin-bottom: 5px
 }
 
 .label2 {
-	width: 50px;
+	width: 120px;
 	margin-bottom: 5px
 }
